@@ -1,0 +1,6 @@
+C:\Users\unkno\source\repos\varPzpz1p4\varPzpz1p4\bin\Debug\varPzpz1p4.exe.config
+C:\Users\unkno\source\repos\varPzpz1p4\varPzpz1p4\bin\Debug\varPzpz1p4.exe
+C:\Users\unkno\source\repos\varPzpz1p4\varPzpz1p4\bin\Debug\varPzpz1p4.pdb
+C:\Users\unkno\source\repos\varPzpz1p4\varPzpz1p4\obj\Debug\varPzpz1p4.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\varPzpz1p4\varPzpz1p4\obj\Debug\varPzpz1p4.exe
+C:\Users\unkno\source\repos\varPzpz1p4\varPzpz1p4\obj\Debug\varPzpz1p4.pdb
